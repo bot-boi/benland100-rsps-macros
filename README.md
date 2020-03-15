@@ -1,6 +1,6 @@
-source: https://ben.land/files/python-rsps-macros.html
+ben has posted the code to his github, check it out here: https://github.com/BenLand100/srbot
 
-ben has posted the code to his github finally, check it out here: https://github.com/BenLand100/srbot
+source: https://ben.land/files/python-rsps-macros.html
 
 additional python/osrs projects of interest:
 
